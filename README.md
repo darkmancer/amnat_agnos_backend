@@ -21,15 +21,13 @@ Before you begin, ensure you have the following installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/strong-password-recommendation.git
+git clone https://github.com/darkmancer/amnat_agnos_backend.git
 cd strong-password-recommendation
 ```
 
 ### 2. Create a .env File
 
 Create a .env file in the root of the project directory with the following content:
-
-# PostgreSQL Database Configuration
 
 ```
 DB_HOST=postgres
