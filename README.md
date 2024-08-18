@@ -67,7 +67,7 @@ http://localhost:8080
 To run the unit tests, you can execute the following command:
 
 ```
-docker-compose run --rm go-app go test ./...
+go test ./...
 ```
 
 ### 6. Stopping the Application
