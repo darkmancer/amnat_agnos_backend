@@ -13,6 +13,7 @@ This is a Go-based service that provides recommendations on the number of steps 
 
 Before you begin, ensure you have the following installed on your machine:
 
+- [Go](https://golang.org/doc/install) (version 1.20 or later)
 - [Docker](https://www.docker.com/get-started)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
